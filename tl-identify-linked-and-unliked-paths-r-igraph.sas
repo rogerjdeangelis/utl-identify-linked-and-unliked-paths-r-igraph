@@ -1,6 +1,6 @@
 %let pgm=utl-identify-linked-and-unliked-paths-r-igraph;
 
-Identify linked and unliked paths r igraph
+Identify linked and unlinked paths r igraph
 
 https://github.com/rogerjdeangelis/utl-identify-linked-and-unliked-paths-r-igraph
 
